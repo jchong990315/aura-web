@@ -40,7 +40,7 @@ const stages = [
   },
   {
     title: "그룹 휴리스틱 평가",
-    description: "진행 예정",
+    description: "다른 그룹의 Medium-fi 프로토타입에 대한 휴리스틱 평가를 진행했습니다.",
     reportHref: "https://drive.google.com/file/d/1g6FeCL3BwIebVmPeti3ho3x96sKf-F-w/view?usp=drive_link",
   },
   {
