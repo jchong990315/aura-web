@@ -8,42 +8,40 @@ const stages = [
     title: "필요 발견하기",
     description:
       "잠재 사용자와 대화하며 실제로 충족되지 않은 필요를 발견했습니다. 리서치 계획, 인터뷰 프로토콜, 원본 기록, 그리고 발견 사항을 주제별로 묶기 위해 사용한 어피니티 다이어그램까지 이 단계의 산출물에 포함되어 있습니다.",
-    reportHref: "#",
-    slidesHref: "https://drive.google.com/file/d/1S_Fq0bANe3IBZzb7eLZ0_nxzzNiRvHVu/view?usp=drive_link",
+    slidesHref: "https://drive.google.com/file/d/1TGbPokY0hqD--Xkg3w4j603FE45m0lfx/view?usp=drive_link",
   },
   {
     title: "아이디어 도출하기",
     description:
       "발견한 필요를 바탕으로 브레인스토밍과 구조화된 아이디에이션 기법을 활용해 다양한 디자인 아이디어를 만들어냈습니다. 이후 매력도, 실현 가능성, 임팩트와 같은 기준으로 추려 프로토타입으로 발전시킬 하나의 컨셉을 선정했습니다.",
-    reportHref: "https://drive.google.com/file/d/1R__Y0OqZ8gqBDaGfy5s9PObaT7imi1c0/view?usp=drive_link",
-    slidesHref: "#",
+    reportHref: "https://drive.google.com/file/d/1-qcs0pPKC0fPpTEiTDPnMJ__Qx3DEQ9G/view?usp=drive_link",
+    slidesHref: "https://drive.google.com/file/d/1kEU8x1hENNb__Q7rn49Ht_4R-Prd7QyM/view?usp=drive_link",
   },
   {
     title: "컨셉 비디오",
     description:
       "선정된 아이디어를 효과적으로 전달하기 위해 짧은 컨셉 비디오를 제작했습니다. 영상은 타깃 사용자가 문제 상황을 마주하고, 우리의 솔루션을 사용한 뒤, 더 나은 결과에 이르는 과정을 3분 이내로 보여줍니다.",
-    reportHref: "https://drive.google.com/file/d/1mzr7a4F3D9A5vN0uue_eNKCwX5yzHqvu/view?usp=drive_link",
-    slidesHref: "#",
+    reportHref: "https://drive.google.com/file/d/1DDIV4RNEhfnbmxzBeCqXxPtgfOMXwDsC/view?usp=drive_link",
+    slidesHref: "https://drive.google.com/file/d/1qLRISrquMwbcnl_EVmLM-wR502_NryDj/view?usp=drive_link",
   },
   {
     title: "Low-fi 프로토타입 & 테스트",
     description:
       "핵심 인터랙션을 빠르고 저렴하게 탐색하기 위해 종이와 거친 디지털 스케치 형태의 프로토타입을 만들었습니다. 이후 실제 사용자와 함께 테스트를 진행해 더 정교한 작업에 들어가기 전에 근본적인 사용성 문제를 발견했습니다.",
-    reportHref: "https://drive.google.com/file/d/1g6IdJBivj33S4JKM4c4nCccdwhYoEtKW/view?usp=drive_link",
-    slidesHref: "#",
+    reportHref: "https://drive.google.com/file/d/1Gx_cWyDlb3ve4rRrupjbyUgbq7RItEjZ/view?usp=drive_link",
+    slidesHref: "https://drive.google.com/file/d/1LymD_Vzknu_C37rkTEBjVPwFVBQ_ezh6/view?usp=drive_link",
   },
   {
     title: "Medium-fi 프로토타입",
     description:
       "Low-fi 테스트에서 얻은 인사이트를 토대로, 현실적인 플로우와 기본 인터랙션이 포함된 디지털 와이어프레임 수준의 프로토타입을 제작했습니다. 이 단계에서 정보 구조와 레이아웃에 관한 의사결정을 마무리했습니다.",
-    reportHref: "https://drive.google.com/file/d/16OJiskjzCixs3uaEmaf1iWP_TrxvhJio/view?usp=drive_link",
-    slidesHref: "#",
+    reportHref: "https://drive.google.com/file/d/1Y8IHh5hqL0SAzzxTDXYWmGbDhHptYaCl/view?usp=drive_link",
+    slidesHref: "https://drive.google.com/file/d/1Gh7YqDT8peIs_RqsAVPaEu-orp6OIgC0/view?usp=drive_link",
   },
   {
     title: "그룹 휴리스틱 평가",
     description: "진행 예정",
-    reportHref: "#",
-    slidesHref: "#",
+    reportHref: "https://drive.google.com/file/d/1g6FeCL3BwIebVmPeti3ho3x96sKf-F-w/view?usp=drive_link",
   },
   {
     title: "Hi-fi 프로토타입",

@@ -20,19 +20,19 @@ const members = [
     name: "정승준",
     studentId: "2026-25642",
     role: "개발",
-    photo: "",
+    photo: "/assets/team/정승준.png",
   },
   {
     name: "문윤서",
     studentId: "2026-28576",
     role: "발표 자료 작성",
-    photo: "",
+    photo: "/assets/team/문윤서.png",
   },
   {
     name: "전효정",
     studentId: "2026-28000",
     role: "사용자 인터뷰",
-    photo: "",
+    photo: "/assets/team/전효정.png",
   },
 ];
 
