@@ -91,7 +91,6 @@ const ResumeClient = () => {
                     ))}
                   </ul>
                   <p className="text-white/40 text-xs text-center xl:text-left">
-                    팀원 사진은 /public/assets/team/ 폴더에 추가한 뒤 각 멤버의 photo 필드에 경로를 넣어주세요.
                   </p>
                 </div>
               </div>
